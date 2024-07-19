@@ -1,5 +1,5 @@
-👋 Hi, I’m @JBLunaJ
-
+<br>👋 Hi, I’m @JBLunaJ
+</br>
 👀 I’m interested in sharing my knowledge with others and developing software solutions, especially in Java. I'm currently pursuing a degree in Systems Engineering.
 🌱 I’m currently learning web development, and I’m expanding my skills in Java, C#, and React.js.
 💞️ I’m looking to collaborate on web application projects and I'm open to new opportunities and challenges.
