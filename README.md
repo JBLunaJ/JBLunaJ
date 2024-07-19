@@ -4,7 +4,7 @@
 <br>🌱 I’m currently learning web development, and I’m expanding my skills in Java, C#, and React.js.</br>
 <br>💞️ I’m looking to collaborate on web application projects and I'm open to new opportunities and challenges.</br>
 <br>📫 How to reach me: lunaj9652@gmail.com | LinkedIn | Instagram </br>
-<br>😄 Pronouns: he/him </br>
+<br>😄  </br>
 <br>⚡ Fun fact: I'm passionate about free software and mobile development. </br>
 <br>linkedin link : www.linkedin.com/in/juan-brendon-luna-juarez-342a1b25b </br>
 <!---
